@@ -1,0 +1,18 @@
+﻿<!-- Views/KhachHang/Edit.cshtml -->
+@model KhachHang
+
+<h2>Edit KhachHang</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="TenKhachHang">TenKhachHang:</label>
+        <input asp-for="TenKhachHang" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DiaChi">DiaChi:</label>
+        <input asp-for="DiaChi" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>

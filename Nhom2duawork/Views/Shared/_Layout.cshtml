@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Nhom2duawork</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Bán Hàng</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </nav>
+    </header>
+    <nav>
+        <ul>
+            <li><a asp-area="" asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+            <li><a asp-area="" asp-controller="KhachHang" asp-action="Index">Danh mục khách hàng</a></li>
+            <li><a asp-area="" asp-controller="NhaCungCap" asp-action="Index">Danh mục nhà cung cấp</a></li>
+            <li><a asp-area="" asp-controller="Product" asp-action="Index">Danh mục sản phẩm</a></li>
+            <li><a asp-area="" asp-controller="BanHang" asp-action="Index">Bán hàng</a></li>
+            <li><a asp-area="" asp-controller="MuaHang" asp-action="Index">Mua hàng</a></li>
+            <li><a asp-area="" asp-controller="BaoCao" asp-action="DanhThu">Báo cáo Danh thu</a></li>
+
+        </ul>
+    </nav>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <div>
+        <h2>Nhóm 5:</h2>
+        <ul>
+            <li>Lê Anh Hào 2200002965</li>
+            <li>Dương Công Thịnh 2200003285</li>
+            <li>Đinh Nguyễn Đăng Khoa 2200003160</li>
+            <li>Nguyễn Thành Nhân </li>
+            <li>Cao Minh Tân</li>
+        </ul>
+    </div>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+           Nhóm 5 - <a asp-area="" asp-controller="" asp-action=""></a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿<!-- Views/KhachHang/Index.cshtml -->
+@model List<KhachHang>
+
+<h2 class="mt-4">Khách Hàng Management</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>TenKhachHang</th>
+            <th>DiaChi</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var khachHang in Model)
+        {
+            <tr>
+                <td>@khachHang.Id</td>
+                <td>@khachHang.TenKhachHang</td>
+                <td>@khachHang.DiaChi</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@khachHang.Id" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="Edit" asp-route-id="@khachHang.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@khachHang.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

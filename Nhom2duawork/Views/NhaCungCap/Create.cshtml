@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    <!-- Views/NhaCungCap/Create.cshtml -->
+    @model NhaCungCap
+
+    <h2>Create Nha Cung Cap</h2>
+
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label asp-for="TenNhaCungCap">Ten Nha Cung Cap:</label>
+            <input asp-for="TenNhaCungCap" class="form-control" />
+            <span asp-validation-for="TenNhaCungCap" class="text-danger"></span>
+        </div>
+        <!-- Thêm các thẻ khác nếu có thêm thuộc tính cho nhà cung cấp -->
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Create</button>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </form>
+
+
+}

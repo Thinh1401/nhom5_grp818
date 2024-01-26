@@ -1,0 +1,118 @@
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\appsettings.json
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.exe
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.deps.json
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.runtimeconfig.json
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.dll
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.pdb
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.Views.dll
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.Views.pdb
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorAssemblyInfo.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorAssemblyInfo.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.TagHelpers.input.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.TagHelpers.output.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorCoreGenerate.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorTargetAssemblyInfo.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.Views.pdb
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\scopedcss\bundle\Nhom2duawork.styles.css
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\staticwebassets\Nhom2duawork.StaticWebAssets.Manifest.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\staticwebassets\Nhom2duawork.StaticWebAssets.Pack.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\staticwebassets\msbuild.Nhom2duawork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\staticwebassets\msbuild.build.Nhom2duawork.props
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Nhom2duawork.props
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Nhom2duawork.props
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.dll
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\refint\Nhom2duawork.dll
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.pdb
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\ref\Nhom2duawork.dll
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.csproj.CopyComplete
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\MuaHang\Index.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\BanHang\Index.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\BaoCao\DanhThu.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\KhachHang\Create.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\KhachHang\Delete.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\KhachHang\Edit.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\KhachHang\Index.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\NhaCungCap\Create.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\NhaCungCap\Delete.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\NhaCungCap\Edit.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\NhaCungCap\Index.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\ACER\source\repos\Nhom2duawork\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\DeleteConfirmed.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\appsettings.json
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.exe
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.deps.json
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.runtimeconfig.json
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.runtimeconfig.dev.json
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.dll
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.pdb
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.Views.dll
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\bin\Debug\net5.0\Nhom2duawork.Views.pdb
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.AssemblyInfo.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorAssemblyInfo.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorAssemblyInfo.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.TagHelpers.input.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.TagHelpers.output.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorCoreGenerate.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\BanHang\Index.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\BaoCao\DanhThu.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\KhachHang\Create.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\KhachHang\Delete.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\KhachHang\Edit.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\KhachHang\Index.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\MuaHang\Index.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\NhaCungCap\Create.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\NhaCungCap\Delete.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\NhaCungCap\Edit.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\NhaCungCap\Index.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\DeleteConfirmed.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.RazorTargetAssemblyInfo.cs
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.Views.pdb
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\scopedcss\bundle\Nhom2duawork.styles.css
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\staticwebassets\Nhom2duawork.StaticWebAssets.Manifest.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\staticwebassets\Nhom2duawork.StaticWebAssets.Pack.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\staticwebassets\msbuild.Nhom2duawork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\staticwebassets\msbuild.build.Nhom2duawork.props
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Nhom2duawork.props
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Nhom2duawork.props
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.dll
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\refint\Nhom2duawork.dll
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.pdb
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.genruntimeconfig.cache
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\ref\Nhom2duawork.dll
+C:\Users\ACER\Documents\Zalo Received Files\Nhom2duawork (2)\Nhom2duawork\obj\Debug\net5.0\Nhom2duawork.csproj.CopyComplete

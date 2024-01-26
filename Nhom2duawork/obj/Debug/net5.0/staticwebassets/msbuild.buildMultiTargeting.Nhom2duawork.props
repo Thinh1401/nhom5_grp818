@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nhom2duawork.props" />
+</Project>

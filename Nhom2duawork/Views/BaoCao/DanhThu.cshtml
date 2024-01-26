@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    <!-- Views/BaoCao/DanhThu.cshtml -->
+    @model List<BaoCaoDanhThu>
+
+    <h2>Danh sách Báo cáo danh thu</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Thời Gian</th>
+                <th>Doanh Thu</th>
+                <!-- Thêm các cột khác nếu cần -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var baoCaoDanhThu in Model)
+            {
+                <tr>
+                    <td>@baoCaoDanhThu.Id</td>
+                    <td>@baoCaoDanhThu.ThoiGian</td>
+                    <td>@baoCaoDanhThu.DoanhThu</td>
+                    <!-- Hiển thị các giá trị khác nếu cần -->
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
